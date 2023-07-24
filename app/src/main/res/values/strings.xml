@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyGitHubUser</string>
+    <string name="detail">Detail GitHub User</string>
+    <string name="name">name user</string>
+    <string name="usergit">username</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="followers1">followers</string>
+    <string name="following1">following</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+
+    <string name="dark_mode">Dark Mode</string>
+
+    <string name="data_followers">%d Followers</string>
+    <string name="data_following">%d Following</string>
+
+</resources>
